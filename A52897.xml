@@ -1,0 +1,565 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new book of knowledge treating of things, whereof some are profitable, some precious, and some pleasant and delightful. I. How to write secretly. II. To write your name on a knife. III. To make bone or wood red for ever. IV. To make ink. V. To catch fowls. VI. To keep cloaths from moths. VII. To make the Q. of Hungary's water. VIII. To fatten fowl. IX. To make cock-ale. 10. To make lucatellus balsam. XI. To cure corns. XII. To pickle french beans, &amp;c. XIII. To take fish. XIV. To take moles. XV. To take spots out of linnen, XVI. To make the balsam sold by mountebanks. XVII. To make pouder-ink in an instant. XVIII. To make pomatum and wash-balls. XIX. To make aqua mirabilis. XX. To make Dr. Stephen's water. With divers other notable things.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52897</idno>
+            <idno type="STC">Wing N585</idno>
+            <idno type="STC">ESTC R217444</idno>
+            <idno type="EEBO-CITATION">99829110</idno>
+            <idno type="PROQUEST">99829110</idno>
+            <idno type="VID">33546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52897)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33546)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1973:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new book of knowledge treating of things, whereof some are profitable, some precious, and some pleasant and delightful. I. How to write secretly. II. To write your name on a knife. III. To make bone or wood red for ever. IV. To make ink. V. To catch fowls. VI. To keep cloaths from moths. VII. To make the Q. of Hungary's water. VIII. To fatten fowl. IX. To make cock-ale. 10. To make lucatellus balsam. XI. To cure corns. XII. To pickle french beans, &amp;c. XIII. To take fish. XIV. To take moles. XV. To take spots out of linnen, XVI. To make the balsam sold by mountebanks. XVII. To make pouder-ink in an instant. XVIII. To make pomatum and wash-balls. XIX. To make aqua mirabilis. XX. To make Dr. Stephen's water. With divers other notable things.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Conyers at the Golden Ring in Little-Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p.2 reads: A new book, &amp;c.</note>
+                  <note>Reproduction of the original in the Harvard University Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33546:1" rendition="simple:additions"/>
+            <p>A New BOOK OF Knowledge; Treating of Things, Whereof ſome are Profitable, ſome Precious, and ſome Plea<g ref="char:EOLhyphen"/>ſant and Delightful.</p>
+            <p>I. How to Write Secretly. II. To Write your Name on a Knife. III. To make Bone or Wood Red for ever. IV. To make Ink. V. To Catch Fowls. VI. To keep Cloaths from Moths. VII. To make the Q. of <hi>Hungary</hi>'s Water. VIII. To Fatten Fowl. IX. To make Cock-Ale. 10. To make <hi>Lucatellus</hi> Balſam. XI. To Cure Corns. XII. To Pickle <hi>French</hi> Beans, &amp;c. XIII. To take Fiſh. XIV. To take Moles. XV. To take Spots out of Linnen, XVI. To make the Balſam ſold by Mountebanks. XVII. To make Pouder-Ink in an inſtant. XVIII. To make <hi>Pomatum</hi> and <hi>Waſh-Balls.</hi> XIX. To make <hi>Aqua Mirabilis.</hi> XX. To make Dr. <hi>Stephen's</hi> Water. With divers other Notable Things.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Conyers</hi> at the <hi>Golden Ring</hi> in <hi>Little-Britain,</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:33546:2"/>
+            <head>A New Book, <hi>&amp;c.</hi>
+            </head>
+            <div type="part">
+               <head>To Write Secretly.</head>
+               <p>TAke Alum, and beat it into Pouder; then put ſome into a Sawcer of clean Water, till it diſ<g ref="char:EOLhyphen"/>ſolve: write with this, and dry it by the fire; ſo you may diſpoſe of it how you pleaſe: but when you would read it, wet the Paper in clean Water, and it will appear of a Blewiſh Colour. There are divers ways of Writing privately, as with the Juice of Li<g ref="char:EOLhyphen"/>mons or Onions; but this exceeds all in my opinion, by reaſon the others may be ſeen before the Light, when dry; but this may not, if throughly dry.</p>
+            </div>
+            <div type="part">
+               <head>To Write your Name on a Knife.</head>
+               <p>Warm your Knife over the Fire, then take Bees-Wax, and rub all over one ſide thereof, about the thickneſs of Paper, in every place: when it is cool, write your Name, or what elſe you pleaſe, on the Knife with a Needle put into a ſmall Stick; but you muſt Write ſo deep in the Wax, as to touch the Me<g ref="char:EOLhyphen"/>tal: having ſo done, take <hi>Aqua Fortis</hi> with a Stick or Feather, and lay it all over that ſide of the Knife and Writing; ſo let it ſtand for one hour: ſcrape off the Wax, and it will be as it were Engraven, and will never wear out. This is called Etching.</p>
+            </div>
+            <div type="part">
+               <head>To make Bone or Wood red for ever.</head>
+               <p>Take pounded Brazil, and put it in ſome Milk, ſo that you put not too much to the Brazil, then lay in your Bone or Wood, letting it lye in for eight days; then boil it a little over the Fire, and it will be Red for ever.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:33546:2"/>
+               <head>To make Yellow <hi>INK.</hi>
+               </head>
+               <p>Take Saffron, and grind it very fine with weak Gum<g ref="char:EOLhyphen"/>water; you may put a little Gambogia with it, if you pleaſe. This is a good Yellow.</p>
+            </div>
+            <div type="part">
+               <head>To Draw out Splinters or Thorns.</head>
+               <p>Take common Turpentine, and ſpread it upon Leather, and apply a Plaſter of this to the place; it alſo Draweth, and cleanſeth Sores and Ulcers.</p>
+            </div>
+            <div type="part">
+               <head>To Catch <hi>CROWS.</hi>
+               </head>
+               <p>Take white Peaſe, ſteep them eight or nine days in the Gall of an Ox, and lay them in ſome place where they uſe to come.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>To make</hi> COCK-ALE.</head>
+               <p>Take nine Gallons of Ale, and let it Work; and when done Working, have in readineſs four pound of Raiſins of the Sun, ſtoned and bruiſed in a Mortar, two Nutmegs, and as much Mace bruiſed; then take two Cocks, flea them, and take out the Guts, then hold them in a pot of boiling Water, juſt to Plump them; then break their Bones, and bruiſe them in a Mortar, ſo put them in a Veſſel to your Ale, (beſure you put in all the Blade Fruit and Spice,) ſo ſtop them cloſe: let it ſtand a Fortnight; and when you Bottle it, put in every Bottle two or three bits of Limon-Peel, and as much candied Ginger-Root, with a Lump of Sugar; ſtop it cloſe: let it ſtand a Fortnight or three Weeks, then drink it; it is very pleaſant, and good againſt Conſumption.</p>
+            </div>
+            <div type="part">
+               <head>To Cure Corns in the Feet.</head>
+               <p>Tender them with Plaſters or warm Water, then pick them out with a Point of a Pen-knife, and apply Vinegar and new Lime.</p>
+               <div type="subpart">
+                  <head>Another.</head>
+                  <p>Cut them well and cloſe; take out as much of the Coar as you can: then take burnt Alum, and the Pith of an Oyſter that ſticks to the Shell, dried and pouder<g ref="char:EOLhyphen"/>ed, incorporate theſe with a little <hi>Venice</hi> Turpentine, put into the Hollowneſs (if there be any) a little Tent
+<pb n="4" facs="tcp:33546:3"/>of Lint dipped in Oil of Cloves, and lay on the other as a Plaſter, and in a Weeks time, with thrice renew<g ref="char:EOLhyphen"/>ing, takes away the Corn, making Fleſh ariſe, to f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the Hollowneſs.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Lady <hi>Boſwells LUCATELLUS BALSAM<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> or <hi>OINTMENT,</hi> admirable for Wounds.</head>
+               <p>Take <hi>Venice</hi> Turpentine one pound, a quart of Salle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Oil, a dram of red Sanders in fine Pouder, ſix ſpoon<g ref="char:EOLhyphen"/>fuls of Sack, one pound of yellow Bees Wax, natural Balſam, and Oil of St. <hi>Johns wort,</hi> of each an ounce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> firſt cut the Wax, and melt it on the Fire in a well<g ref="char:EOLhyphen"/>headed Pipkin, and then (leſt it catch fire) take <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> off, and put in the Turpentine to it, having firſt waſh<g ref="char:EOLhyphen"/>ed the Turpentine thrice in Damask Roſe-water, an<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> put in the Oil and Sack, ſtirring them on a ſlow fire<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and when it is cold, pour off the Sack, and melt it a<g ref="char:EOLhyphen"/>gain, and put in the natural Balſam, Red Sanders<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Oil of St. <hi>Johns-wort,</hi> ſtirring it again on the fire<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> till it almoſt boil, and ſtrain it off, if you will, and ſtir it till it is a little thickiſh, and put it in Pots for uſe.</p>
+               <p>
+                  <hi>Note,</hi> That if the Flame happen to catch any Oint<g ref="char:EOLhyphen"/>ment (in making,) clap a Cloth or Paper over it, to damp the Flame.</p>
+               <div type="subpart">
+                  <head>The Virtues.</head>
+                  <p>Firſt, It is good to heal any Wound inward or out<g ref="char:EOLhyphen"/>ward, being ſquirted warm into the inward Wound<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to an outward Wound, being applyed with fine Lin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> or Linnen, anointing the Parts alſo thereabouts; i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not only taketh away the Pain, but alſo keepeth i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> from Inflammation, and draweth forth Splinters o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> broken Bones, or any thing elſe that may putrify <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſo as the Brain, Guts or Liver, be not Wounded, it commonly heals the Wound in four or five times Dreſ<g ref="char:EOLhyphen"/>ſing, ſo that no other thing be applyed thereto.</p>
+                  <p>Secondly, It heals Burns or Scalds without a Scar.</p>
+                  <pb n="5" facs="tcp:33546:3"/>
+                  <p>Thirdly, It helpeth the Head-ach, by anointing the Noſtrils and Temples.</p>
+                  <p>Fourthly, It cureth the Biting of a Mad Dog, uſed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot.</p>
+                  <p>Fifthly, It is good in the time of Plague, Pox, <hi>&amp;c.</hi> by anointing the Noſtrils and Lips every Morning.</p>
+                  <p>Sixthly, In the beginning of the Plague, Small-Pox or Meaſles, ſwallow about a quarter of an ounce, and Sweat upon it three or four Mornings together.</p>
+                  <p>Seventhly, It is good againſt the Colick, Stitches, <hi>&amp;c.</hi> Bathing it well in, and apply Flannel.</p>
+                  <p>Eighthly, It healeth Fiſtula<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, or other Ulcers and Cankers, uſed hot, taking the longer time.</p>
+                  <p>Ninthly, It helps Digeſtion, the Naval and Stomach being anointed going to Bed.</p>
+                  <p>Tenthly, For Ulcers in the Bladder or Kidneys, and Bruiſes by Falls inward; Take the quantity of a Field-Bean in Sack, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ills made thereof, rolled in Sugar Morning and Night, and drink Ale-berry after it; but for the Stone, take them at going to Bed in White-wine.</p>
+                  <p>Eleventhly, Mix with Conſerve of Roſes, and Gum-Olibanum, cures old Coughs, <hi>&amp;c.</hi> if followed.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of</hi> FLAX.</head>
+               <p>Flax will yield Thirty or fourty pound an Acre: Barren, Sandy and Heathy Ground is beſt for it; and after Flax, Turnips; one Acre of good Flax is ac<g ref="char:EOLhyphen"/>counted worth three or four Acres of the beſt Wheat, and the Liquor hath much advanced the Goodneſs thereof. The beſt time for Sowing, is about the be<g ref="char:EOLhyphen"/>ginning of <hi>April,</hi> preſently after a Shower of Rain; which may abundantly be ſupplyed by the Engine, and much Water following. Some do uſually ſow Flax until the end of <hi>May,</hi> and ſome after.</p>
+               <p>Cabages pull'd up by the Roots, and ſet in Sand, in a Cellar, or ſome other Room, may be kept all the Winter; or you may hang them up with Strings:
+<pb n="6" facs="tcp:33546:4"/>and ſo may you keep Artichokes, and other Plants a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Roots, for conſtant uſe, as Caro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Parſnips and Tur<g ref="char:EOLhyphen"/>nips. In dry Weather, in <hi>October</hi> and <hi>November,</hi> ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a Layer of Sand, and a Layer of Carots, cutting aw<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Tops cloſe to the Roots, with ſome of the ſm<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ends of the Carots: and about the laſt of <hi>December<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> when there is no Froſt, uncover them; and you m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> keep them longer, if you pare off the Shootings <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the upper end of the Roots, and lay them in Sand<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and ſo Parſnips and Turnips.</p>
+            </div>
+            <div type="part">
+               <head>To help a Chimney that is dangerouſly on Fire.</head>
+               <p>Let two or three Perſons take a Blanket or Cover<g ref="char:EOLhyphen"/>let, and hold it cloſe to the Mouth of the Chimney that no Air may enter, and with a cloſe Board, cov<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Top of the Chimney; and the Fire, for want <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Air, will ſoon be Extinguiſhed.</p>
+               <p>Chaff will Heat, and Ripen unripe Apples.</p>
+               <p>The Droſs, or that which is left after the preſſing out of Lint-ſeeds, is exceeding profitable for the Fee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing of Cattel, as the other Rape-ſeeds with Turnips.</p>
+               <p>Hemp ſeeds given to Hens, in Winter, will make them Lay oftner than ordinary Seeds or Corn.</p>
+               <p>Boil Butchers Blood, which is eaſily to be had, wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a good quantity of Bran mingled therewith; o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Grains, which is not ſo good until it come to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> manner of a Blood P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dding, which will feed you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fowl as fat as you will deſire them to be. Some d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> uſe to feed Fowl with Carots. Turnips, Parſnips an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pumpions ſodden, and mingled with Bran, or coar<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Pollard.</p>
+               <p>Turkies will become very Fat in a ſhort time, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> proſper exceedingly, with bruiſed Acorns.</p>
+               <p>You may ſoak Chippings, and other Cruſts of Bread<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in broken Beer or Fletten Milk, and feed your Hen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Capons fat preſently.</p>
+               <p>Graft Apples upon Cherry-Stocks, and the Frui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will be exceeding Red.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:33546:4"/>
+               <head>To make five ſorts of Roſes grow upon one Stock, without Inoculation.</head>
+               <p>When they begin to Knot, bore with an Awl under <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Knot, and with a Feather put Green in one, and Yellow in another, Red in a third, and Blew in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he fourth, and cloſe up all the Holes handſomly.</p>
+            </div>
+            <div type="part">
+               <head>To make Lillies become Red.</head>
+               <p>You muſt very neatly open the Clifts of the Roots, and fill the ſame with any Red Colour, then ſet them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n fat Dunged Earth.</p>
+               <p>Graft Roſes in the Bud, upon Sweet-Briar, and they will Smell moſt deliciouſly.</p>
+               <p>The Roots of Roſes, with their Slips and Knots, removed and ſet amongſt Broom, will bring forth Yellow Roſes.</p>
+               <p>Elm-Tree Chips ſet in Ditches, will in a ſhort time become Young Trees, and make a very good Fence: and the Slips that grow from the Roots of Elms be<g ref="char:EOLhyphen"/>ing taken off, will grow to great Perfection in few Years.</p>
+            </div>
+            <div type="part">
+               <head>To keep Cloaths from Moths.</head>
+               <p>Seeth the Dregs, or Mother, or Foam of Oil, to the half, and therewith Anoint the Bottom, Corners and Feet of any Cheſt or Preſs, and the Cloaths that you lay therein will be free from any Hurt with Moths; but before you put the Cloaths in the Cheſt or Preſs, it muſt be dry.</p>
+               <p>Provide ſtore of Walnut leaves, and hang them up<g ref="char:EOLhyphen"/>on Thread, one diſtant from another; when they are throughly Dry, ſtrip them in the Cheſt, or amongſt the Cloaths and Beds, and within the Folds of every Garment: lay Wormwood or Lavender amongſt the Cloaths, and they will be ſafe from Moths.</p>
+               <p>The Branches of Bay-Trees wrapt up, and laid amongſt Cloaths and Books, will keep them ſafe from Moths and other Corruption.</p>
+            </div>
+            <div type="part">
+               <head>To keep Apparel, Hangings, <hi>&amp;c.</hi> from Moths.</head>
+               <p>Bruſh them ſeveral times in the Year, with a Bruſh
+<pb n="8" facs="tcp:33546:5"/>made of Wormwood Tops, and you may rub the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with Wormwood, eſpecially when you diſcern t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Moths to haunt amongſt the Hangings.</p>
+            </div>
+            <div type="part">
+               <head>To deſtroy Caterpillars.</head>
+               <p>Beſmear all the bottom of the Tree with Tar, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> get great ſtore of Ants; put them in a Bag, and dra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the ſame with a Cord unto the Tree, and let it han<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there, ſo that it touch the Body of the Tree; and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ants being prevented to go from the Tree by reaſon of the Tar, will for want of Food, eat and deſtroy th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Caterpillars, without hurting any of the Fruit o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Leaves.</p>
+            </div>
+            <div type="part">
+               <head>To take <hi>FISH.</hi>
+               </head>
+               <p>Set a Candle in a piece of Cork, as even as may b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with the Water, which will ſtupify and attract th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fiſhes to it, ſo that with a little Hoop Net, upon the end of a Cane or Staff, you may take them with much facility; or with a Shovel-Net, <hi>&amp;c.</hi> which muſt be in the Night.</p>
+               <p>Where Mudd and Water is taken out of the Ponds if the Rain-water do after come into them, there will become multitude of Eels in a ſhort time; and by this Courſe, you may abundantly increaſe Carps.</p>
+               <p>In <hi>May,</hi> dig up two Turffs of new grown Graſs when the Dew is on them: then tye the graſſy ſide together, and place them in Water on the ſide of a Pond; then let them remain there unmoved, about Ten days; and taking up the Turffs, untying or loo<g ref="char:EOLhyphen"/>ſing them, you ſhall find great ſtore of Young Eel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> within the Turffs, although there were not an Eel in the Pond before; and by tying the Turffs together again, and placing them in the ſame manner, a greater increaſe will come thereof.</p>
+            </div>
+            <div type="part">
+               <head>To bring all the Fiſh in the Pond together.</head>
+               <p>Take <hi>Plattavia</hi> or <hi>Dioſcorides,</hi> lay either of them in Honey, a Day and a Night; then let them dry in the Sun: bind them to a String, and caſt them into the Pond, and all the Fiſh will come to it.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:33546:5" rendition="simple:additions"/>
+               <head>To take Moles.</head>
+               <p>Get a Pot or Glaſs that is narrow at the top, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ide at the bottom, and place one of theſe deep in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound in the Fields, where the Moles are; the top <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Pot being even with the ground, and in the Pot <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Glaſs, put a ſtinking Crab, which they will eager<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſmell after, and ſo fall into the Pot, and being im<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iſoned, they will call for Aids of their Fellows. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd to bring them all to a place in this manner, fire <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>imſtone in the like Pot ſo placed: but firſt, put a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve Mole therein, and ſhe will call all the Moles that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re near, to come to her releaſe; and ſo being ta<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en, you may uſe only a live Mole in the Pot, with<g ref="char:EOLhyphen"/>out the Crab or Brimſtone.</p>
+            </div>
+            <div type="part">
+               <head>To make good <g ref="char:V">Ʋ</g>ſquebaugh.</head>
+               <p>Take two Gallons of <hi>Aqua Vitae,</hi> four ounces of beſt liquorice bruiſed, four ounces of Anniſeeds bruiſed, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut them into a Glaſs, or Stone Veſſel, and cover <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem cloſe, and ſo let them ſtand a Week; and then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raw off the cleareſt with <hi>Moloſſes,</hi> and keep it in an<g ref="char:EOLhyphen"/>other Veſſel, and put in ſome Dates, Raiſins ſtoned; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eep it cloſe from the Air.</p>
+            </div>
+            <div type="part">
+               <head>To make pleaſant Mead.</head>
+               <p>Put a Quart of Honey to a Gallon of Water, with about Ten Sprigs of ſweet Marjoram, and half ſo ma<g ref="char:EOLhyphen"/>ny Tops of Bays; boil all theſe well together, and when it is cold, Bottle it up, and in Ten days it will be ready to drink.</p>
+            </div>
+            <div type="part">
+               <head>To get Ink-Spots out of Linnen.</head>
+               <p>Lay it in Urine immediately after the Ink has drop<g ref="char:EOLhyphen"/>ped on it, and there let it lye all night, and the next day waſh it out again; and in ſo doing two or three times, you will find the Spots and Stains quite out.</p>
+            </div>
+            <div type="part">
+               <head>To <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Parſly ſpring up in few hours.</head>
+               <p>Steep the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in ſweet Milk, and ſtrew your Bed you mean to Sow with unquench'd Lime three times, then ſow your Seed, and ſtrew once more of your Lime upon it, and upon that Earth well prepared,
+<pb n="10" facs="tcp:33546:6"/>then Water it well, and you may according to diſc<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tion enjoy your expectation.</p>
+            </div>
+            <div type="part">
+               <head>To make a Pouder, that will make Ink in an inſtant.</head>
+               <p>Take Galls and Copperas, of each a like quant<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> beat it to Pouder, and put it in Water, and on a <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>den it will be good Ink. Likewiſe, if you ſtrew<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the ſame Pouder on white Paper, and write the<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> with Water, the Letters will preſently appear bl<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>.</p>
+            </div>
+            <div type="part">
+               <head>To make that Famous Balſam, ſold by the Mountebanks <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> moſt parts of <hi>England;</hi> exactly ſet down, for the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Country, as followeth:</head>
+               <p>Take Linſeed Oil 5 Quarts, 2 pound of Oil of Tur<g ref="char:EOLhyphen"/>pentine, 1 pound of Sallet-Oil, 5 pound of Ro<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 2 pound of common Turpentine, 2 pound of Be<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Wax, 1 ounce Ship-Pitch, 4 ounces <hi>Storax</hi> Liqu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 1 ounce <hi>Galbanum,</hi> 1 ounce <hi>Amoniacum, Bdellium, Sa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>penum,</hi> of each half an ounce, 4 ounces Oil of <hi>Sp<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> half an ounce <hi>Natural</hi> Balſam, <hi>Burgundy</hi> Pitch a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Frankincenſe, of each two ounces: diſſolve yo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Gums in Vinegar, then melt them gently together and it is done.</p>
+            </div>
+            <div type="part">
+               <head>The true and genuine Receipt, for making the Queen of <hi>Hungarys</hi> Water.</head>
+               <p>Take four pound of Roſemary Flowers, gather <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in a fair Morning, two or three hours after Sun-riſin<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and picked from all the green part: put them into Cucurbite, and pour upon them three Quarts of Spi<g ref="char:EOLhyphen"/>rit of Wine well Rectified; preſs down the Flowe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into the ſaid Spirit, and then cover the Cucurbite with its Head and Alembick: lute well all the Ju<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ctu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e with Paſte and Paper: then place it in a Sa<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> bath, and lute a Receiver to it, then leave it ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the next morning: Then Diſtill it with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o modera<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, that whilſt the Spirit Diſtille<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Head m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be ſo much as warm. Or, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Diſtillati<g ref="char:EOLhyphen"/>on, you may cover the Head with a Linnen Clo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> doubled ſeveral times, and dipped in cold Water <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and dip again, and cool the Head ſeveral times. Con<g ref="char:EOLhyphen"/>tinue
+<pb n="11" facs="tcp:33546:6"/>the Diſtillation, until you have drawn about three Quarts of Spirit, which will be very pure, and charged with the beſt and volatil Subſtance of the Flower: then take out all the fire, and let the Bath cool: unlute the Veſſels, and put the Spirit into a Bottle well ſtopped: then ſtrain, and preſs out the Li<g ref="char:EOLhyphen"/>quor that remains in the Cucurbite, and clarify it. Then put into the Cucurbit again, and Diſtill it, un<g ref="char:EOLhyphen"/>til it remaineth in the bottom, of the conſiſtence near as thick as Honey, or a thick Syrup, which put into a Pipkin well glaz'd, and boil it over a gentle fire, to the thickneſs of an ordinary Extract; put the laſt Spirit into a Bottle by it ſelf.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Elixir Salutis,</hi> rightly prepared, as followeth.</head>
+               <p>Take of Anniſeeds, Coriander-ſeeds, Parſly-ſeeds, ſweet Fennel-ſeeds, of each 2 ounces, 2 ounces of <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> Liquorice, 2 ounces Senna, 2 ounces Rhubarb, Elecampane 2 ounces, Guaiacum 2 ounces, Saffron 6 penny worth, Raiſins of the Sun ſtoned, 1 pound: mix all theſe together, put them into 3 Quarts of the ſmal<g ref="char:EOLhyphen"/>leſt <hi>Aqua Vitae,</hi> in a Stone or Glaſs Bottle. Let it ſtand, and inſuſe 14 days at leaſt (but the longer the better) near the Fire, that it may receive ſome warmth, for it will infuſe the better, and ſooner. Then pour off your Liquor into a Veſſel, and take your Druggs and preſs them as dry as you can, and put the Liquor you ſqueeze out to the other; and ſo Bottle it up for uſe.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>To make</hi> Waſh-Balls.</head>
+               <p>Take Storax of both kinds, Benjamin, Calamus A<g ref="char:EOLhyphen"/>romaticus, Labdanum, of each alike: bray them to Pouder with Cloves and Orrice, beat them all with a ſufficient quantity of Soap, till it be ſtiff, then work it like Paſte, and make round Balls thereof.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>To Pickle</hi> French-Beans.</head>
+               <p>String your Beans, boil them tender: take them off, let them ſtand till they are cold; put them into Pickle of Beer, Vinegar, Salt, Cloves and Mace, with a little Ginger.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:33546:7"/>
+               <head>
+                  <hi>To make</hi> Aqua Mirabilis.</head>
+               <p>Take Cloves, Cubebs, Cardamums, Galanga, Nut<g ref="char:EOLhyphen"/>megs, Mace, Ginger, of each a dram, half a pound o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Juice of Celandine, a pint of Spirit of Wine, 3 pints o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> White-wine, infuſe them 24 hours, and draw off <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Quart with an Alembick.</p>
+            </div>
+            <div type="part">
+               <head>Dr. <hi>Stephen</hi>'s Water.</head>
+               <p>Take of Cinamon, Ginger, Galanga, Cloves, Nut<g ref="char:EOLhyphen"/>megs, Grains of Paradiſe, Seeds of Amſe, Fennel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Caraways, of each a dram: Herb of Time, Mother<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Time, Mint, Sage, Penny-royal, Pellitory of the Wall, Roſemary, Flowers of Red-Roſes, Camomil Origanum, Lavender, of each a handful: infuſe the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 12 pints of <hi>Gaſcoign</hi> Wine, then with an Alembi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> draw away 3 pints of the Strong.</p>
+            </div>
+            <div type="part">
+               <head>To make <hi>Pomatum.</hi>
+               </head>
+               <p>Take freſh Hogs-Suet cleanſed from the Films, and waſht in White-wine, one pound: and as much Sheeps Suet waſht in White-wine: then take about 16 Pom<g ref="char:EOLhyphen"/>water Apples, cleanſed and boiled in Roſe-water<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> add to theſe Roſe-wood, Saſaffras, Roots of Orrice Florentine, of each ſix Drams, of Benzoin, Storax, Calamita, half an ounce of each, and ſo make it into an Ointment.</p>
+            </div>
+            <div type="part">
+               <head>To take <hi>FISH.</hi>
+               </head>
+               <p>Take <hi>Aſſa Fatida,</hi> Milk, Honey, Wheat-flower, and make an Ointment, and anoint the Bait and Hook.</p>
+            </div>
+            <div type="part">
+               <head>An Ointment to kill the <hi>ITCH.</hi>
+               </head>
+               <p>Take a pennyworth of Black Soap, and a penny<g ref="char:EOLhyphen"/>worth of Boars-greaſe, beat them together in Water, and anoint therewith when it itcheth.</p>
+            </div>
+            <div type="part">
+               <head>For a <hi>Scald-Head.</hi>
+               </head>
+               <p>Take Primroſe-leaves, ſtamp them, and lay to it.</p>
+            </div>
+            <div type="part">
+               <head>For a <hi>Ring-worm.</hi>
+               </head>
+               <p>Take Muſtard and Honey, and anoint the place three days.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33546:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
